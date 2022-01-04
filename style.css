@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section{
+
+    display: flex;
+    
+   
+}
+
+.half-width{
+
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width img{
+    width: 70%;
+    border-radius: 10%;
+    border: dashed;
+}
+
+.half-width2{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.half-width2 img{
+    width: 70%;
+    border-radius: 20%;
+
+}
+.half-width3{
+
+    width: 50%;
+    padding-right: 10%;
+}
+
+
+.flex{
+
+    display: flex;
+    margin: 10%;
+    
+}
+
+.button{
+
+color: cornsilk;
+background-image: linear-gradient(red,tomato);
+padding: 10px 40px;
+text-decoration: none;
+border-radius: 10px;
+
+
+}
+
+
+.half-width-po{
+
+    
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+    border-radius: 5%;
+
+    box-shadow: 10px 5px 5px green;
+
+
+
+}
+
+
+
+.section-po{
+
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position: center;
+
+}
+
+.flex2{
+
+    display: flex;
+    
+    
+}
